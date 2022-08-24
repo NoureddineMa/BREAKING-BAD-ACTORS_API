@@ -1,7 +1,10 @@
-/* .index-page {background-image: url("../img/background.png");} */
 .index-page {
-    background-color: black;
+    background-image: url("../img/background.png");
+    
 }
+/* .index-page {
+    background-color: black;
+} */
 *{
     font-family: 'poppins';
 }
